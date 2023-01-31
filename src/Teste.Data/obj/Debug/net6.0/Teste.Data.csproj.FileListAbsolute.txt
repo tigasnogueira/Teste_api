@@ -1,0 +1,17 @@
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Data.deps.json
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Data.runtimeconfig.json
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Data.dll
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Data.pdb
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Domain.dll
+C:\PROJECT\Teste\src\Teste.Data\bin\Debug\net6.0\Teste.Domain.pdb
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.AssemblyReference.cache
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.AssemblyInfoInputs.cache
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.AssemblyInfo.cs
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.CoreCompileInputs.cache
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.CopyComplete
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.dll
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\refint\Teste.Data.dll
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.pdb
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\Teste.Data.genruntimeconfig.cache
+C:\PROJECT\Teste\src\Teste.Data\obj\Debug\net6.0\ref\Teste.Data.dll
